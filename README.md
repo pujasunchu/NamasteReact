@@ -1,2 +1,1 @@
-# NamasteReact
-React Project 
+NAMASTE REACT
